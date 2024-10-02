@@ -1,0 +1,6 @@
+[package]
+name = "_6_Compound_Types_6_3_Slice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
